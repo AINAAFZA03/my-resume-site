@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume - Home</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Left Section -->
+    <div class="left-section">
+      <img src="salinan gambar pelajar.jpg" alt="Profile Photo" class="profile-img">
+
+      <h2>Nurul Aina Afza</h2>
+      <p class="subtitle">Computer Science Student</p>
+
+      <div class="button-group">
+        <a href="hobbies.html" class="main-btn">Hobbies</a>
+        <a href="contact.html" class="main-btn">Contact</a>
+      </div>
+
+      <div class="social-icons">
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+    </div>
+
+    <!-- Right Section -->
+    <div class="right-section">
+      <h1>About Me</h1>
+      <p>
+        I am a dedicated student pursuing a degree in Computer Science at Universiti Utara Malaysia.
+        I’m passionate about technology, creative problem-solving, and continuously learning new skills.
+        I have developed several academic and personal projects that reflect my love for web development
+        and innovation.
+      </p>
+
+      <!-- Language Skills -->
+      <h2>Language Skills</h2>
+      <p>Malay Language: 95%</p>
+      <p>English Language: 70%</p>
+
+      <!-- Academic Level -->
+      <h2>Academic Level</h2>
+      <ul>
+        <li>Secondary School</li>
+        <li>Matriculation</li>
+        <li>Universiti Utara Malaysia (UUM)</li>
+      </ul>
+
+      <!-- Skills -->
+      <h2>Skills</h2>
+      <ul>
+        <li>Canva</li>
+        <li>Web Development (HTML, CSS, JavaScript)</li>
+        <li>Programming (Python, Java)</li>
+        <!-- Add more skills if you want -->
+      </ul>
+
+      <!-- University Activities -->
+      <h2>University Activities</h2>
+      <ul>
+        <li>Position: [Your Position, e.g., Student Leader]</li>
+        <li>Joined: [Clubs, Societies, or Organizations]</li>
+        <li>Achievements: [Any awards or participation]</li>
+      </ul>
+    </div>
+  </div>
+
+</body>
+</html>
